@@ -1,0 +1,5 @@
+prefix: "&7[&c&lAntiVPN&7]"
+primaryColor: "&7"
+secondaryColor: "&c"
+
+kickMessage: "%prefix% %secondary%VPN Detected\n%primary%&oMake a ticket in discord for a bypass."
